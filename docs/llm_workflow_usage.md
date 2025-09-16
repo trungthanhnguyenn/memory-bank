@@ -15,7 +15,7 @@ LLM Workflow with Cache Memory is a production-ready example for integrating cac
 ### Dependencies
 
 ```bash
-pip install langchain-openai httpx python-dotenv redis fastapi uvicorn sen
+pip install langchain-openai httpx python-dotenv redis fastapi uvicorn 
 ```
 
 ## Configuration
