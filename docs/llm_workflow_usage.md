@@ -50,12 +50,6 @@ cd /path/to/memory-bank
 uvicorn memory_bank.src.api.cache_api:app --host 0.0.0.0 --port 1234
 ```
 
-#### Docker Setup (Optional)
-```bash
-# If using Docker for the cache API
-docker run -d --name cache-api -p 1234:1234 your-cache-api-image
-```
-
 ## Basic Usage
 
 ### 1. Import and Initialize
