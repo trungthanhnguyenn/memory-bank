@@ -1,0 +1,28 @@
+# postgres
+psycopg2-binary
+
+# redis
+redis
+
+# langchain
+langchain_core
+langchain_openai
+
+# llm
+openai
+
+# dotenv
+python-dotenv
+
+# pydantic
+pydantic>=2.0.0
+
+# requests
+requests
+
+# additional utilities
+tiktoken
+
+# FastAPI for endpoints
+fastapi
+uvicorn[standard]
